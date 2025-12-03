@@ -1,5 +1,3 @@
-# Python Starter
+Python Starter
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
-
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.devcontainer/Dockerfile).
+Import this Python code into codesandbox.io or another Python code runner for a simple game of Rock, Paper, Scissors!
